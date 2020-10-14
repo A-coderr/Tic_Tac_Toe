@@ -1,0 +1,10 @@
+C:\Users\Akostyuk1701\Documents\Semester 3\Game Programming\AKostyukAssignment3\AKostyukAssignment3\bin\Debug\AKostyukAssignment3.exe.config
+C:\Users\Akostyuk1701\Documents\Semester 3\Game Programming\AKostyukAssignment3\AKostyukAssignment3\bin\Debug\AKostyukAssignment3.exe
+C:\Users\Akostyuk1701\Documents\Semester 3\Game Programming\AKostyukAssignment3\AKostyukAssignment3\bin\Debug\AKostyukAssignment3.pdb
+C:\Users\Akostyuk1701\Documents\Semester 3\Game Programming\AKostyukAssignment3\AKostyukAssignment3\obj\Debug\AKostyukAssignment3.csprojAssemblyReference.cache
+C:\Users\Akostyuk1701\Documents\Semester 3\Game Programming\AKostyukAssignment3\AKostyukAssignment3\obj\Debug\AKostyukAssignment3.PlayForm.resources
+C:\Users\Akostyuk1701\Documents\Semester 3\Game Programming\AKostyukAssignment3\AKostyukAssignment3\obj\Debug\AKostyukAssignment3.Properties.Resources.resources
+C:\Users\Akostyuk1701\Documents\Semester 3\Game Programming\AKostyukAssignment3\AKostyukAssignment3\obj\Debug\AKostyukAssignment3.csproj.GenerateResource.cache
+C:\Users\Akostyuk1701\Documents\Semester 3\Game Programming\AKostyukAssignment3\AKostyukAssignment3\obj\Debug\AKostyukAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\Akostyuk1701\Documents\Semester 3\Game Programming\AKostyukAssignment3\AKostyukAssignment3\obj\Debug\AKostyukAssignment3.exe
+C:\Users\Akostyuk1701\Documents\Semester 3\Game Programming\AKostyukAssignment3\AKostyukAssignment3\obj\Debug\AKostyukAssignment3.pdb
